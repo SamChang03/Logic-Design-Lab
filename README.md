@@ -4,7 +4,7 @@ This repository contains the personal/related work for the NTHU 11120EE223002 To
 # Contributers
 ### Project Advisor:  
 - 黃元豪 教授（Prof. Yuan-Hao Huang）
-### Engineer:
+### Author:
 - 張育碩
 
 # Final Project
