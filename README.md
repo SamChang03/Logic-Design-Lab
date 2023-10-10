@@ -13,7 +13,7 @@ This repository contains the personal/related work for the NTHU 11120EE223002 To
 - Tools: Vivado, BASYS3
 
 # Lab09 VGA
-- [Lab09]([https://github.com/SamChang03/Logic-Design-Lab/tree/main/Final%20Project](https://github.com/SamChang03/Logic-Design-Lab/tree/main/Lab09))
+- [Lab09](https://github.com/SamChang03/Logic-Design-Lab/tree/main/Lab09)
 - Main purpose: learn how to use FPGA to control signal of VGA(Video Graphics Array)
 - Tools: Vivado, BASYS3
 
