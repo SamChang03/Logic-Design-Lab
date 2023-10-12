@@ -54,6 +54,6 @@ This course help us get basic insight of using xilinx vivado and verilog coding
 
 # Final Project
 - [Final Project](https://github.com/SamChang03/Logic-Design-Lab/tree/main/Final%20Project)
-- Cooperator: 吳燦霖
+- Collaborator: 吳燦霖
 - Main purpose: Constuct flappy bird game with FPGA boad connecting keyboard, VGA and speaker
 - Tools: Vivado, BASYS3
