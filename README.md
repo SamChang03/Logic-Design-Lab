@@ -1,5 +1,5 @@
 # Logic-Design-Lab
-This course help us get basic insight of using xilinx vivado and verilog coding
+This course helps us bulid up some basic skills of using Xilinx Vivado and Verilog coding
 
 # Contributers
 ### Project Advisor:  
