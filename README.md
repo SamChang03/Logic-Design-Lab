@@ -1,5 +1,5 @@
 # Logic-Design-Lab
-This repository contains the personal/related work for the NTHU 11120EE223002 Topic on Logic Design Laboratory
+This course help us get basic insight of using xilinx vivado and verilog coding
 
 # Contributers
 ### Project Advisor:  
