@@ -54,6 +54,6 @@ This repository contains the personal/related work for the NTHU 11120EE223002 To
 
 # Final Project
 - [Final Project](https://github.com/SamChang03/Logic-Design-Lab/tree/main/Final%20Project)
-- Coperator: 吳燦霖
+- Cooperator: 吳燦霖
 - Main purpose: Constuct flappy bird game with FPGA boad connecting keyboard, VGA and speaker
 - Tools: Vivado, BASYS3
