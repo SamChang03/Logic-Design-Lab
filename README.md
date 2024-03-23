@@ -14,38 +14,38 @@ This course helps us bulid up some basic skills of using Xilinx Vivado and Veril
 
 # Lab02_FPGAEmulation
 - [Lab02](https://github.com/SamChang03/Logic-Design-Lab/tree/main/Lab02)
-- Main purpose: Get familair to Vivado and review conbinational logic
-- Tools: Vivado, BASYS3
+- Main purpose: 
+- Tools:
 
 # Lab03_Counter_Shifter_I
 - [Lab03](https://github.com/SamChang03/Logic-Design-Lab/tree/main/Lab03)
-- Main purpose: Get familair to Vivado and review conbinational logic
-- Tools: Vivado, BASYS3
+- Main purpose: 
+- Tools:
 
 # Lab04_Counter_Shifter_II
 - [Lab04](https://github.com/SamChang03/Logic-Design-Lab/tree/main/Lab04)
-- Main purpose: Get familair to Vivado and review conbinational logic
-- Tools: Vivado, BASYS3
+- Main purpose: 
+- Tools: 
 
 # Lab05_Timer_Stopwatch
 - [Lab05](https://github.com/SamChang03/Logic-Design-Lab/tree/main/Lab05)
-- Main purpose: Get familair to Vivado and review conbinational logic
-- Tools: Vivado, BASYS3
+- Main purpose: 
+- Tools:
 
 # Lab06_Electronic_Clock
 - [Lab06](https://github.com/SamChang03/Logic-Design-Lab/tree/main/Lab06)
-- Main purpose: Get familair to Vivado and review conbinational logic
-- Tools: Vivado, BASYS3
+- Main purpose: 
+- Tools: 
 
 # Lab07_Speaker
 - [Lab07](https://github.com/SamChang03/Logic-Design-Lab/tree/main/Lab07)
-- Main purpose: Get familair to Vivado and review conbinational logic
-- Tools: Vivado, BASYS3
+- Main purpose: 
+- Tools:
 
 # Lab08_Keyboard
 - [Lab08](https://github.com/SamChang03/Logic-Design-Lab/tree/main/Lab08)
-- Main purpose: Get familair to Vivado and review conbinational logic
-- Tools: Vivado, BASYS3
+- Main purpose: 
+- Tools: 
 
 # Lab09 VGA
 - [Lab09](https://github.com/SamChang03/Logic-Design-Lab/tree/main/Lab09)
